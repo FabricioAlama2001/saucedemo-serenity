@@ -16,7 +16,7 @@ Opcional:
 
 Abrir una terminal y ejecutar:
 
-git clone
+git clone https://github.com/FabricioAlama2001/saucedemo-serenity.git
 
 Luego ingresar a la carpeta del proyecto:
 
